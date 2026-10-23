@@ -4,7 +4,7 @@ Dört farklı Talaşlı imalat hesaplama aracını ve bonus olarak geliştirilen
 
 ## Live Demo
 
-[Siteyi Görüntüle](https://kyrstr1.github.io/Makina-Hesaplamalari/))
+([Siteyi Görüntüle](https://kyrstr1.github.io/Makina-Hesaplamalari/))
 
 ## Araçlar
 
